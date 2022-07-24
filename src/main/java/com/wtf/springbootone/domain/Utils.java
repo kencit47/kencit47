@@ -1,4 +1,4 @@
-package com.spring.springbootone.domain;
+package com.wtf.springbootone.domain;
 
 import lombok.experimental.UtilityClass;
 import org.apache.commons.lang3.EnumUtils;

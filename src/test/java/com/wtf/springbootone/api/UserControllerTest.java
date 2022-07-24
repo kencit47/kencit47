@@ -1,4 +1,4 @@
-package com.spring.springbootone.api;
+package com.wtf.springbootone.api;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.springframework.beans.factory.annotation.Autowired;

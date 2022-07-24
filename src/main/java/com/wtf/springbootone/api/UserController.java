@@ -1,4 +1,4 @@
-package com.spring.springbootone.api;
+package com.wtf.springbootone.api;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
