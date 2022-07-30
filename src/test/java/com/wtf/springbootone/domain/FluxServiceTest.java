@@ -17,7 +17,7 @@ class FluxServiceTest {
     void testThis() {
         final var actual = fluxService.plusThings(1, 1);
 
-        assertEquals(1, actual);
+        assertEquals(2, actual);
 
     }
 }
