@@ -22,4 +22,8 @@ public class FluxService {
                 .log()
                 .delayElements(Duration.ofSeconds(1L));
     }
+
+    public Integer plusThings(final int a, final int b) {
+        return a + b;
+    }
 }
